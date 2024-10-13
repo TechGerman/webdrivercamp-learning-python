@@ -1,0 +1,6 @@
+0 - //ul[@class='vl-flyout-nav__container']//a[@href]
+1 - //ul[@class='x-refine__left__nav']//ul[@class='x-refine__left__nav']/li # Collects left navigation block
+1 - //ul[@class='x-refine__left__nav']//div[text()='US Shoe Size'] 
+2 - //ul[@class='x-refine__left__nav']//div[text()='{section}']
+3 - //li[h3[contains(.,"Brand")]]//input[@aria-label="adidas"]
+4 - //ul[@id='gh-ul-nav']/li # I opened the DevTools and typed the debugger command in the console.
